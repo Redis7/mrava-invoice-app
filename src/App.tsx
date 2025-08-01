@@ -46,7 +46,7 @@
 // export default App;
 
 
-import React from 'react';
+// import React from 'react';
 import workflowStart from './data/workflow_start.json';
 import approvalWorkflow from './data/approval_workflow.json';
 import workflowEnd from './data/workflow_end.json';
