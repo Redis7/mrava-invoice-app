@@ -11,7 +11,7 @@
 
 //   return (
 //     <div className="p-6 max-w-3xl mx-auto">
-//       <h1 className="text-2xl font-bold text-blue-600 mb-4">Mrava Invoice Approval</h1>
+//       <h1 className="text-2xl font-bold text-blue-600 mb-4">Redis Invoice Approval Dashboard</h1>
 
 //       <div className="bg-gray-50 p-4 rounded mb-6">
 //         <h2 className="font-semibold text-lg">Workflow Started</h2>
@@ -60,7 +60,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 p-6">
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-3xl font-bold text-blue-600 mb-10">Mrava Invoice Approval</h1>
+        <h1 className="text-3xl font-bold text-blue-600 mb-10">Redis Invoice Approval Dashboard</h1>
 
         {/* Invoice Summary Box */}
         <div className="mb-6 bg-blue-50 border-l-4 border-blue-400 p-4 rounded">
@@ -120,7 +120,7 @@ function App() {
 
         {/* Footer */}
         <div className="text-center text-sm text-gray-400 mt-12">
-          Built for the Mrava UG Frontend Challenge by Redis
+          Built for testing purposes by Redis
         </div>
       </div>
     </div>
